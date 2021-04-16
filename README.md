@@ -23,7 +23,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently Persuing Engineering.
+- 🔭 I’m currently pursuing Bachelor Degree in domain of 💻.
 - 🌱 I’m currently learning Android Application Development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for an Internship.
