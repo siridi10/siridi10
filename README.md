@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Siridi Nath</h1>
-<h3 align="center">A passionate For Learning ❤️.</h3>
+<h1 align="center">Hello👋,<b>I'm Siridi Nath</b></h1>
+<h3 align="center">A passionate For Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siridi10&label=Profile%20views&color=0e75b6&style=flat" alt="siridi10" /> </p>
-
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" alt="siridi10" /)(/p)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/siridinath peddina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siridinath peddina" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siridinath-peddina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="siridinath peddina" height="30" width="40" /></a>
+ <a href="https://twitter.com/in/siridinath-peddina" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/twitter.svg" alt="siridinath peddina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +33,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Interested on IOT
--->
