@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siridi10&show_icons=true&locale=en&layout=compact" alt="siridi10" /></p><br><br><br><br><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siridi10&show_icons=true&locale=en" alt="siridi10" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siridi10&show_icons=true&theme=radical" alt="siridi10" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siridi10&" alt="siridi10" /></p>
 
@@ -22,12 +22,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently Persuing Engineering.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for an Internship.
 - 💬 Ask me about ...
+- <code><img src="https://cdn.svgporn.com/logos/android-icon.svg" width="30" alt="JavaScript"></code>
+  <code><img src="https://cdn.svgporn.com/logos/java.svg" width="30" alt="JavaScript"></code>
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
