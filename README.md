@@ -2,7 +2,7 @@
 <h3 align="center">A passionate For Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siridi10&label=Profile%20views&color=0e75b6&style=flat" alt="siridi10" /> </p>
-<p> <img align="right" alt="coding" width="400" height="400" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" alt="siridi10"/></p>
+<p> <img align="right" alt="coding" width="200" height="400" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" alt="siridi10"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
