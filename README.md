@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siridi10&label=Profile%20views&color=0e75b6&style=flat" alt="siridi10" /> </p>
 <p> <img align="right" alt="coding" width="250" height="400" src="https://media.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" alt="siridi10"/></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://linkedin.com/in/siridinath-peddina" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="siridinath peddina" height="30" width="40" /></a>
  <a href="https://twitter.com/in/siridinath-peddina" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/twitter.svg" alt="siridinath peddina" height="30" width="40" /></a>
