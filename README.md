@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently Working on Android Application Development
 - 🤔 I’m looking for an Internship based on Android Development and Java.
 - 👯 I’m looking to collaborate on Good Project Team.
-- 💬 Ask me about ...
+- 💬 Ask me about Android & Java
 - <code><img src="https://cdn.svgporn.com/logos/android-icon.svg" width="30" alt="Android"></code>
   <code><img src="https://cdn.svgporn.com/logos/java.svg" width="30" alt="Java"></code>
 - 📫 How to reach me: 📱-> 7537897581
 - 😄 Pronouns: He/His
 - 😄 You call me as SIRIDI NATH
 - ⚡ Fun fact: Interested on IOT
+- Having Interest on LOGO Designing
