@@ -18,11 +18,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siridi10&hide_border=true&theme=vision-friendly-dark" alt="siridi10" /></p>
 
 Here are some ideas to get you started:
-- 🔭 I’m currently pursuing Bachelor Degree in domain of 💻.
-- 🌱 I’m currently Working on Android Application Development
+- 🔭 Completed Graduation in domain of Computer Science and Engineering.
+- 🌱 I’m currently working as Trainee engineer in WIPRO.
 - 🔭 I have interest of writing blogs.
-- 🤔 I’m looking for an Internship based on Android Development and Java.
-- 👯 I’m looking to collaborate on Good Project Team.
+- 🤔 Looking for an Internship based on Data Science.
 - 💬 Ask me about Android & Java
 - <code><img src="https://cdn.svgporn.com/logos/android-icon.svg" width="30" alt="Android"></code>
   <code><img src="https://cdn.svgporn.com/logos/java.svg" width="30" alt="Java"></code>
