@@ -10,8 +10,8 @@
 <h4 align="left">⚽️ Hobbies: Sports (Badminton, Cricket), 📷 Photography.</h4>
 <h4 align="left">📫 How to Reach Out me :-</h4>
 - 📩 Email - siridinathpedina@gmail.com
-- <p align="left">
-<a href="https://linkedin.com/in/siridinath-peddina" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="siridinath peddina" height="30" width="40" /></a>
+<!-- - <p align="left">
+<a href="https://linkedin.com/in/siridinath-peddina" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="siridinath peddina" height="30" width="40" /></a> -->
 - 😄 Pronouns: He/His
 - 😄 You call me as SIRIDI NATH
 - ⚡ Fun fact: Interested on IOT
