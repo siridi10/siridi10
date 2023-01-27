@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋,<b>I'm Siridi Nath</b></h1>
 <h3 align="center">Passionate for Learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siridi10&label=Profile%20views&color=0e75b6&style=flat" alt="siridi10" /> </p>
-- BTECH from Giet University Gunupur(2018-2022) .
+<h4 align="left">- BTECH from Giet University Gunupur(2018-2022) .</h3>
 - Specialzation on Computer Science.
 💖 I’m currently learning Data Science.
 🌈 I’m currently working on Machine Learning Projects.
