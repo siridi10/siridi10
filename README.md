@@ -8,15 +8,16 @@
 <h4 align="left">🌈 I’m currently working on Machine Learning Projects.</h4>
 <h4 align="left">👯 Looking to collaborate on Data Science projects.</h4>
 <h4 align="left">⚽️ Hobbies: Sports (Badminton, Cricket), 📷 Photography.</h4>
-<h4 align="left">📫 How to Reach Out me :-</h4>
- * 📍 Email : <a href="https://gmail.com/in/siridinathpeddina@gmail.com" target="_blank">siridinathpeddina@gmail.com</a><br>
- * 📍 Linkedin : <a href="https://linkedin.com/in/siridinath-peddina" target="_blank">Siridi Nath Peddina</a><br>
+<h4 align="left">📫 How to Reach Out me :- </h4>
+  📍 Email : <a href="https://gmail.com/in/siridinathpeddina@gmail.com" target="_blank">siridinathpeddina@gmail.com</a><br>
+  <br>
+  📍 Linkedin : <a href="https://linkedin.com/in/siridinath-peddina" target="_blank">Siridi Nath Peddina</a><br>
+  <br>
 
 <h4 align="left">⚡ Fun fact: Interested on IOT </h4>
 <h4 align="left"> Having Interest on LOGO Designing</h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siridi10&hide_border=true&theme=vision-friendly-dark" alt="siridi10" /></p><br><br><br><br><br><br>
-<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siridi10&show_icons=true&theme=radical" alt="siridi10" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siridi10&hide_border=true&theme=vision-friendly-dark" alt="siridi10" /></p>
 
