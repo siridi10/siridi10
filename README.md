@@ -9,11 +9,9 @@
 <h4 align="left">👯 Looking to collaborate on Data Science projects.</h4>
 <h4 align="left">⚽️ Hobbies: Sports (Badminton, Cricket), 📷 Photography.</h4>
 <h4 align="left">📫 How to Reach Out me :- </h4>
-  📍 Email : <a href="https://gmail.com/in/siridinathpeddina@gmail.com" target="_blank">siridinathpeddina@gmail.com</a><br>
+    📍 Email : <a href="https://gmail.com/in/siridinathpeddina@gmail.com" target="_blank">siridinathpeddina@gmail.com</a><br><br>
+    📍 Linkedin : <a href="https://linkedin.com/in/siridinath-peddina" target="_blank">Siridi Nath Peddina</a><br>
   <br>
-  📍 Linkedin : <a href="https://linkedin.com/in/siridinath-peddina" target="_blank">Siridi Nath Peddina</a><br>
-  <br>
-
 <h4 align="left">⚡ Fun fact: Interested on IOT </h4>
 <h4 align="left"> Having Interest on LOGO Designing</h4>
 
